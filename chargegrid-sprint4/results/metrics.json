@@ -1,0 +1,36 @@
+{
+  "baseline": {
+    "pv_kwh": 906.013224960431,
+    "load_kwh": 957.4022024760701,
+    "ev_kwh": 767.1683312498348,
+    "grid_import_kwh": 257.94043441975566,
+    "grid_export_kwh": 189.76779972439755,
+    "peak_import_kwh": 57.89206427867947,
+    "cost_brl": 157.26807057571543,
+    "self_consumption_pct": 79.05463248257934,
+    "self_sufficiency_pct": 73.05829945318068,
+    "service_level_pct": 100.0,
+    "peak_grid_kw": 27.791176564223083,
+    "co2_station_kg": 10.317617376790226,
+    "co2_ice_equiv_kg": 874.5718976248115,
+    "co2_avoided_vs_ice_kg": 864.2542802480212,
+    "km_charged": 4603.009987499008
+  },
+  "smart": {
+    "pv_kwh": 906.013224960431,
+    "load_kwh": 957.4022024760702,
+    "ev_kwh": 767.1683312498348,
+    "grid_import_kwh": 255.49137983288682,
+    "grid_export_kwh": 190.26461882922845,
+    "peak_import_kwh": 14.531386359135123,
+    "cost_brl": 118.35113480677714,
+    "self_consumption_pct": 78.99979673723439,
+    "self_sufficiency_pct": 73.31410151636113,
+    "service_level_pct": 100.0,
+    "peak_grid_kw": 32.901029363075175,
+    "co2_station_kg": 10.219655193315473,
+    "co2_ice_equiv_kg": 874.5718976248115,
+    "co2_avoided_vs_ice_kg": 864.352242431496,
+    "km_charged": 4603.009987499008
+  }
+}
