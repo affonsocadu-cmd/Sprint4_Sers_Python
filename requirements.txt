@@ -1,0 +1,4 @@
+pandas
+matplotlib
+streamlit
+pyserial   # só se for usar o Arduino de verdade (ponte_arduino.py)
