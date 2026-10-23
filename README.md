@@ -9,7 +9,8 @@ Sprint 4 - Solução final integrada
 - Gabrieli de Lima Pettena de Oliveira — RM 569799
 - Igor Massone Monteiro — RM 573853
 - Temitope Kuku da Silva Ogunbanjo — RM 573772  
-- **Vídeo:** _(colar o link)_
+- **Vídeo:** <https://youtu.be/gSGxMbqamdk>
+)
 
 ## 1. O que é o projeto
 
